@@ -1,4 +1,4 @@
-# e--mail_validation.jss
+# e-mail_validation
 
 Kullanıcının mail adresini girmesini istiyoruz;eğer email formatına uygunsa VALID değilse INVALID yazıcak ekrana.
 
