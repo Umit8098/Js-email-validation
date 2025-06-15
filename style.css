@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    
+    transition: background-color 0.5s ease;
+}
+
+#output {
+  font-weight: bold;
+  /* font-size: 1.2rem; */
+  border: none;
+  background-color: transparent;
+  transition: color 0.3s ease;
+}
+
+input {
+    margin-left: 15px;
+}
+
+#validate {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+span {
+    background-color: white;
+    border: 1px solid black;
+}
+
+h1 {
+    font-size: 1.75rem;
+    margin-top: 20px;
+    color: blueviolet;
+}
